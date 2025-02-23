@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🚀 I'm a DevOps Engineer with experience in Linux, Docker, Kubernetes, Jenkins, AWS, Terraform, and CI/CD pipelines.
+- ⚙️ Specialized in Automation – streamlining infrastructure, optimizing deployments, and ensuring high availability.
+- ☁️ Passionate about Cloud & Containers – expertise in AWS, Kubernetes, and Docker.
+- 📊 Monitoring & Observability Enthusiast – working with Prometheus, Grafana, and real-time alerting solutions.
+- 🔧 Committed to Scalable & Secure DevOps Workflows – enhancing software delivery with best practices & automation.
 <!--
 **ranjithdb/ranjithdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
